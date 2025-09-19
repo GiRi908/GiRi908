@@ -1,4 +1,4 @@
-# [Giribalan K] | 
+# [Giribalan K] 
 
 <p align="center">
   <em>A short, impactful sentence about yourself. e.g., "Building creative solutions for the modern web."</em>
