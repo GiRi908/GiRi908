@@ -1,18 +1,20 @@
+```markdown
 # Hi there 👋 I'm GIRIBALAN K  
 
-🚀 Aspiring Software Engineer | 💡 Problem Solver | 👨🏻‍💻 Designer | 📚 Lifelong Learner  
+🚀 Aspiring Software Engineer | 💡 Problem Solver | 🎨 Designer | 📚 Lifelong Learner  
 
 <img align="right" alt="Coding" width="400" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tjMXp6dnJlOW1pYTgwamt3dGs5dnExNGxrY3lzcmRycW9ldXBpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 
 ---
 
-### 🌟 About Me  
+## 🌟 About Me  
 
-I am a passionate software developer with a strong foundation in problem-solving, competitive programming, and full-stack development. I love building **innovative projects** that solve real-world problems and continuously improving my skills through learning and experimentation.  
+I am a passionate **software developer** with a strong foundation in **problem-solving, competitive programming, and full-stack development**.  
+I love building **innovative projects** that solve real-world problems while continuously learning and experimenting with new technologies.  
 
 ---
 
-### 🌐 Connect With Me  
+## 🌐 Connect With Me  
 
 <p align="start">
   <a href="https://github.com/GiRi908">
@@ -27,14 +29,14 @@ I am a passionate software developer with a strong foundation in problem-solving
   <a href="https://www.linkedin.com/in/giribalank/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kit27.am20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 
 💻 **Languages & Frameworks**  
 <br>
@@ -57,7 +59,7 @@ I am a passionate software developer with a strong foundation in problem-solving
 
 ---
 
-### 💡 Competitive Programming  
+## 💡 Competitive Programming  
 
 I love tackling challenging problems and improving my algorithmic thinking.  
 
@@ -67,16 +69,16 @@ I love tackling challenging problems and improving my algorithmic thinking.
 
 ---
 
-### 🚀 Projects  
+## 🚀 Projects  
 
-- [**AI-Based DNA Mutation Predictor**](#) – Predict DNA mutations using deep learning and Transformers.  
-- [**Smart IoT Pillbox**](#) – Multi-patient hospital monitoring system using IoT and real-time notifications.  
-- [**Portfolio Website**](#) – Personal portfolio showcasing projects and skills, built with HTML, CSS & JS.  
-- [**Pneumonia Detection System**](#) – Deep learning model to detect pneumonia from X-ray images.
+- [**AI-Based DNA Mutation Predictor**](https://github.com/GiRi908/AI-DNA-Mutation-Predictor) – Predict DNA mutations using deep learning and Transformers.  
+- [**Smart IoT Pillbox**](https://github.com/GiRi908/Smart-IoT-Pillbox) – Multi-patient hospital monitoring system with IoT & real-time notifications.  
+- [**Portfolio Website**](https://github.com/GiRi908/Portfolio) – Personal portfolio showcasing projects & skills, built with HTML, CSS & JS.  
+- [**Pneumonia Detection System**](https://github.com/GiRi908/Pneumonia-Detection) – Deep learning model to detect pneumonia from X-ray images.  
 
 ---
 
-### 🏆 Achievements & Certifications  
+## 🏆 Achievements & Certifications  
 
 - **CodeChef**: 5⭐ Problem Solver  
 - **LeetCode**: 200+ problems solved  
@@ -85,20 +87,21 @@ I love tackling challenging problems and improving my algorithmic thinking.
 
 ---
 
-### ✨ Fun Facts  
+## ✨ Fun Facts  
 
 - I enjoy **competitive coding** in my free time.  
 - Love **designing UI/UX** and exploring **creative solutions**.  
 - Always curious about **AI, ML, and emerging tech trends**.  
-- Coffee ☕ keeps my brain alive during late-night coding sessions.
+- Coffee ☕ keeps my brain alive during late-night coding sessions.  
 
 ---
 
-### 📈 GitHub Stats  
+## 📈 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiRi908&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiRi908&layout=compact&theme=radical)
 
 ---
 
-✨ _“Consistency beats intensity. Keep learning, keep building.”_
+✨ *“Consistency beats intensity. Keep learning, keep building.”*  
+```
