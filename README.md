@@ -1,107 +1,63 @@
 
-# Hi there 👋 I'm GIRIBALAN K  
+# 👋 Hey, I'm GIRIBALAN K  
 
-🚀 Aspiring Software Engineer | 💡 Problem Solver | 🎨 Designer | 📚 Lifelong Learner  
-
-<img align="right" alt="Coding" width="400" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tjMXp6dnJlOW1pYTgwamt3dGs5dnExNGxrY3lzcmRycW9ldXBpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
+💻 Software Engineer in the making | 🚀 Builder of Ideas | 🧩 Problem Solver | 🌱 Lifelong Learner  
 
 ---
 
-## 🌟 About Me  
+## 👨🏻‍💻 About Me  
 
-I am a passionate **software developer** with a strong foundation in **problem-solving, competitive programming, and full-stack development**.  
-I love building **innovative projects** that solve real-world problems while continuously learning and experimenting with new technologies.  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="start">
-  <a href="https://github.com/GiRi908">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/GiRi908/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/GiRi908">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/giribalank/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kit27.am20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- Passionate about **full-stack development** & **AI/ML projects**.  
+- Strong in **data structures, algorithms, and competitive coding**.  
+- I enjoy designing **clean UI/UX** and building **scalable systems**.  
+- Currently exploring **deep learning** and **IoT applications**.  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🔗 Connect With Me  
 
-💻 **Languages & Frameworks**  
-<br>
-<img height="50" src="https://img.icons8.com/color/48/python.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/c-programming.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/html-5.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/css3.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/javascript.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/react-native.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/nodejs.png"/> 
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
-
-🛠️ **Tools & Platforms**  
-<br>
-<img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/git.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/figma.png"/> 
-<img width="50" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-framer-the-only-tool-you-need-to-create-interactive-designs-for-any-platform-logo-color-tal-revivo.png"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiRi908)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giribalank/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/GiRi908/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/GiRi908)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit27.am20@gmail.com)
 
 ---
 
-## 💡 Competitive Programming  
+## ⚡ Tech Stack  
 
-I love tackling challenging problems and improving my algorithmic thinking.  
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/GiRi908?theme=dark&font=Ubuntu)  
-<br>
-[![CodeChef](https://img.shields.io/badge/CodeChef-GiRi908-ff6a00?logo=codechef&logoColor=white&style=for-the-badge)](https://www.codechef.com/users/GiRi908)
-
----
-
-## 🚀 Projects  
-
-- [**AI-Based DNA Mutation Predictor**](https://github.com/GiRi908/AI-DNA-Mutation-Predictor) – Predict DNA mutations using deep learning and Transformers.  
-- [**Smart IoT Pillbox**](https://github.com/GiRi908/Smart-IoT-Pillbox) – Multi-patient hospital monitoring system with IoT & real-time notifications.  
-- [**Portfolio Website**](https://github.com/GiRi908/Portfolio) – Personal portfolio showcasing projects & skills, built with HTML, CSS & JS.  
-- [**Pneumonia Detection System**](https://github.com/GiRi908/Pneumonia-Detection) – Deep learning model to detect pneumonia from X-ray images.  
+**Languages**: Python, C, Java, JavaScript, SQL  
+**Frontend**: HTML, CSS, React  
+**Backend**: Node.js, Express  
+**Tools**: Git, VS Code, Figma, Framer  
 
 ---
 
-## 🏆 Achievements & Certifications  
+## 🏆 Competitive Programming  
 
 - **CodeChef**: 5⭐ Problem Solver  
-- **LeetCode**: 200+ problems solved  
-- **Completed**: Full-Stack Web Development & Data Science Courses  
-- **Hackathons**: Participated in multiple coding competitions and hackathons  
+- **LeetCode**: 200+ Problems Solved  
+- Active in **coding contests & hackathons**  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/GiRi908?theme=dark&font=Ubuntu)
 
 ---
 
-## ✨ Fun Facts  
+## 🚀 Featured Projects  
 
-- I enjoy **competitive coding** in my free time.  
-- Love **designing UI/UX** and exploring **creative solutions**.  
-- Always curious about **AI, ML, and emerging tech trends**.  
-- Coffee ☕ keeps my brain alive during late-night coding sessions.  
-
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiRi908&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiRi908&layout=compact&theme=radical)
+- 🔬 [AI-Based DNA Mutation Predictor](https://github.com/GiRi908/AI-DNA-Mutation-Predictor) – Transformer-based deep learning model.  
+- 💊 [Smart IoT Pillbox](https://github.com/GiRi908/Smart-IoT-Pillbox) – IoT-enabled pill management for hospitals.  
+- 🌐 [Portfolio Website](https://github.com/GiRi908/Portfolio) – Personal portfolio showcasing my skills & work.  
+- 🩺 [Pneumonia Detection System](https://github.com/GiRi908/Pneumonia-Detection) – Medical AI for X-ray diagnosis.  
 
 ---
 
-✨ *“Consistency beats intensity. Keep learning, keep building.”*  
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiRi908&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiRi908&layout=compact&theme=tokyonight)
+
+---
+
+✨ *"Keep building, keep learning, keep growing."*
 
