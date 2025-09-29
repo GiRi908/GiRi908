@@ -1,4 +1,4 @@
-```markdown
+
 # Hi there 👋 I'm GIRIBALAN K  
 
 🚀 Aspiring Software Engineer | 💡 Problem Solver | 🎨 Designer | 📚 Lifelong Learner  
@@ -104,4 +104,4 @@ I love tackling challenging problems and improving my algorithmic thinking.
 ---
 
 ✨ *“Consistency beats intensity. Keep learning, keep building.”*  
-```
+
