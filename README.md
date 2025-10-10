@@ -24,7 +24,7 @@
 
 ---
 
-## ⚡ Tech Stack  
+##  Tech Stack  
 
 **Languages**: Python, C, Java, JavaScript, SQL  
 **Frontend**: HTML, CSS, React  
