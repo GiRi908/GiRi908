@@ -26,7 +26,7 @@ jobs:
 
           # A list of SVG output files
           outputs: |
-            dist/github-snake.svg
+            dist/github-snake.svg?color_snake=#6BBBE3&color_dots=#D6F0F9,#AEE2F0,#6BBBE3,#4AA8D1,#2995BF
             dist/github-snake-dark.svg?palette=github-dark
 
       # Push the changes to the output branch
