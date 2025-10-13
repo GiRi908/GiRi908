@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C4CC&height=200&section=header&text=Giribalan%20K&fontSize=60&fontAlignY=35&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling" alt="Header" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Passionate+AI+%26+ML+Engineer;🚀+Full-Stack+Web+Developer;Always+Learning+New+Technologies;Turning+Ideas+into+Reality" alt="Typing SVG" />
+![Developer Banner](https://ishan-rest.vercel.app/svg/banner/dev/Giribalan)
 
 </div>
 
