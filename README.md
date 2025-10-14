@@ -14,18 +14,18 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I’m **Giribalan K**, a **Computer Science Engineering student (AI & ML specialization)** passionate about exploring the intersections of **Artificial Intelligence, Machine Learning, and Full-Stack Development**.  
 I enjoy working on projects that blend **data-driven insights** with **modern web technologies** to solve real-world problems.
 
-🌱 **Currently Learning:** Deep Learning, Computer Vision, and Advanced React.js  
-💡 **Interests:** AI Applications, Healthcare ML, Web Development  
-🎯 **Goal:** To become a well-rounded AI Developer and Full-Stack Engineer  
+ **Currently Learning:** Deep Learning, Computer Vision, and Advanced React.js  
+ **Interests:** AI Applications, Healthcare ML, Web Development  
+ **Goal:** To become a well-rounded AI Developer and Full-Stack Engineer  
 
 ---
 
-## 🧠 Technical Skills
+##  Technical Skills
 
 <table align="center">
   <tr>
@@ -70,7 +70,7 @@ I enjoy working on projects that blend **data-driven insights** with **modern we
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack | Link |
 |----------|--------------|------------|------|
@@ -80,7 +80,7 @@ I enjoy working on projects that blend **data-driven insights** with **modern we
 
 ---
 
-## 📊 GitHub Analytics & Contribution Visuals
+##  GitHub Analytics & Contribution Visuals
 
 <div align="center">
 
@@ -109,7 +109,7 @@ I enjoy working on projects that blend **data-driven insights** with **modern we
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=GiRi908&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
@@ -117,7 +117,7 @@ I enjoy working on projects that blend **data-driven insights** with **modern we
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://github.com/GiRi908"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -129,9 +129,9 @@ I enjoy working on projects that blend **data-driven insights** with **modern we
 
 <div align="center">
 
-### 💫 Fun Fact  
+###  Fun Fact  
 *"Every great model starts with a simple dataset — just like every coder starts with ‘Hello World!’"*
 
-**⭐ From [GiRi908](https://github.com/GiRi908)**
+** From [GiRi908](https://github.com/GiRi908)**
 
 </div>
