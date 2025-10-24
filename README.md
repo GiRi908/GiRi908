@@ -16,7 +16,7 @@
 
 ##  About Me
 
-I’m **Giribalan K**, a **Computer Science Engineering student (AI & ML specialization)** passionate about exploring the intersections of **Artificial Intelligence, Machine Learning, and Full-Stack Development**.  
+I'm **Giribalan K**, a **Computer Science Engineering student (AI & ML specialization)** passionate about exploring the intersections of **Artificial Intelligence, Machine Learning, and Full-Stack Development**.  
 I enjoy working on projects that blend **data-driven insights** with **modern web technologies** to solve real-world problems.
 
  **Currently Learning:** Deep Learning, Computer Vision, and Advanced React.js  
