@@ -1,8 +1,6 @@
-<div align="center">
-
-![Developer Banner](https://ishan-rest.vercel.app/svg/banner/dev/Giribalan)
-
-</div>
+<p align="center">
+  <img src="https://github.com/GiRi908/GiRi908/raw/main/banner.gif" alt="GitHub Banner" />
+</p>
 
 <div align="center">
 
