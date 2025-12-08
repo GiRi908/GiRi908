@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://github.com/GiRi908/GiRi908/raw/main/banner.gif" alt="GitHub Banner" />
-</p>
-
 <div align="center">
+
+![Developer Banner 13](https://ishan-rest.vercel.app/svg/banner/dev13/Giribalan)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GiRi908&color=00C4CC&style=for-the-badge&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/GiRi908?style=for-the-badge&logo=github&color=00C4CC&labelColor=000000)
