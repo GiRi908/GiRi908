@@ -76,7 +76,6 @@ More Projects → https://github.com/GiRi908
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GiRi908&theme=react-dark)
 
 <br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiRi908/GiRi908/output/github-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/GiRi908/GiRi908/output/github-snake.svg">
